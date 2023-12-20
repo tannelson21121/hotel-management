@@ -1,6 +1,6 @@
 # hotel-management
 
-Build and deploy a hotel management system with Next.js, React, Sanity.io, Tailwind CSS, and Stripe.
+Build and deploy a hotel management system w/ Next.js, React, Sanity.io, Tailwind CSS and Stripe.
 
 Features include:
 - Hotel Room Management CRUD with Sanity.IO
