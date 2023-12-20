@@ -1,2 +1,2 @@
 # hotel-management
-Hotel Management Site w/ Next.js, React, Sanity.io, Tailwind, Stripe
+Hotel Management Site using Next.js, React, Sanity.io, Tailwind, Stripe
