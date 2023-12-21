@@ -1,4 +1,5 @@
 # hotel-management
+Work in Progress - By end Dec 2023
 
 Build and deploy a hotel management system w/ Next.js, React, Sanity.io, Tailwind CSS and Stripe.
 
